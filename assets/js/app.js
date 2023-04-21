@@ -11,3 +11,6 @@ function checkAge(age){
     }
 }
 checkAge(age)
+// const i = document.querySelector("#lop")
+// i.innerHTML = `hu`
+// alert("YoungBoy Just Dropped An Album !")
